@@ -13,8 +13,6 @@ SQL, Python, Excel, Power BI
 
 - Tools: Python
 
-- Link: [https://github.com/dimpleyadav/diamond_dilemma](url)
-
 - Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
 #### Indian Airlines Customer Review Analysis
@@ -23,8 +21,6 @@ SQL, Python, Excel, Power BI
 - Description: Analyzed customer reviews for Indian domestic airlines to identify trends and insights on customer sentiment and service quality.
 
 - Tools: Excel, Python
-
-- Link: [https://github.com/dimpleyadav/excel](url)
 
 - Project Type: Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
@@ -35,8 +31,6 @@ SQL, Python, Excel, Power BI
 
 - Tools: SQL
 
-- Link: [https://github.com/dimpleyadav/rpc_ev_data](url)
-
 - Project Type: Data Retrieval, Data Analysis
 
 #### User Activity Analysis
@@ -45,8 +39,6 @@ SQL, Python, Excel, Power BI
 - Description: Explored date functions through queries on user and login tables to practice date manipulation skills.
 
 - Tools: SQL
-
-- Link: [https://github.com/dimpleyadav/sql_mini_project](url)
 
 - Project Type: Data Retrieval
 
