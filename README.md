@@ -13,7 +13,7 @@ SQL, Python, Excel, Power BI
 
 - Tools: Python
 
-- Link: [https://github.com/dimpleyadav/diamond_dilemma.git)](url)
+- Link: [https://github.com/dimpleyadav/diamond_dilemma.git](url)
 
 - Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
