@@ -6,6 +6,17 @@ SQL, Python, Excel, Power BI
 
 ### Projects
 
+#### The Diamond Dilemma
+<img src="https://github.com/user-attachments/assets/c0ef73f9-a84e-4aec-89f1-7e1656e237b8" width="240">
+
+- Description: Analyzing consumer sentiment and market trends surrounding diamonds.
+
+- Tools: Python
+
+- Link: [https://github.com/dimpleyadav/diamond_dilemma.git)](url)
+
+- Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
+
 #### Indian Airlines Customer Review Analysis
 <img src="https://github.com/user-attachments/assets/5934e1e4-e806-4417-9794-f30491ce3d2c" width="240">
 
@@ -27,17 +38,6 @@ SQL, Python, Excel, Power BI
 - Link: [https://github.com/dimpleyadav/rpc_ev_data](url)
 
 - Project Type: Data Retrieval, Data Analysis
-
-#### Credit Card Transaction Analysis
-<img src="https://github.com/user-attachments/assets/8c4887a7-8e2d-4016-b2b7-75e6a5025b8c" width="240">
-
-- Description: Analyzed credit card transaction records to uncover spending patterns and demographics among customers.
-
-- Tools: Python
-
-- Link: [https://github.com/dimpleyadav/credit_card_transaction_analysis](url)
-
-- Project Type: Data Transformation, Data Analysis
 
 #### User Activity Analysis
 <img src="https://github.com/user-attachments/assets/c6791572-76e3-467e-9dd1-b9417fe9b7fa" width="240">
