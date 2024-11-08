@@ -8,10 +8,12 @@ SQL, Python, Excel, Power BI
 
 #### The Diamond Dilemma
 <img src="https://github.com/user-attachments/assets/c0ef73f9-a84e-4aec-89f1-7e1656e237b8" width="240">
-<a href="https://github.com/dimpleyadav/diamond_dilemma.git" target="_blank"> Github repo</a>
+
 - Description: Analyzing consumer sentiment and market trends surrounding diamonds.
 
 - Tools: Python
+
+- Link: <a href="https://github.com/dimpleyadav/diamond_dilemma.git" target="_blank">Project Link</a>
 
 - Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
@@ -22,6 +24,8 @@ SQL, Python, Excel, Power BI
 
 - Tools: Excel, Python
 
+- Link: <a href="https://github.com/dimpleyadav/excel.git" target="_blank">Project Link</a>
+
 - Project Type: Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
 #### EV Market Analysis
@@ -31,6 +35,8 @@ SQL, Python, Excel, Power BI
 
 - Tools: SQL
 
+- Link: <a href="https://github.com/dimpleyadav/rpc_ev_data.git" target="_blank">Project Link</a>
+
 - Project Type: Data Retrieval, Data Analysis
 
 #### User Activity Analysis
@@ -39,6 +45,8 @@ SQL, Python, Excel, Power BI
 - Description: Explored date functions through queries on user and login tables to practice date manipulation skills.
 
 - Tools: SQL
+
+- Link: <a href="https://github.com/dimpleyadav/sql_mini_project.git" target="_blank">Project Link</a>
 
 - Project Type: Data Retrieval
 
