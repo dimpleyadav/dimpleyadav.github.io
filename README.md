@@ -8,7 +8,7 @@ SQL, Python, Excel, Power BI
 
 #### The Diamond Dilemma
 <img src="https://github.com/user-attachments/assets/c0ef73f9-a84e-4aec-89f1-7e1656e237b8" width="240">
-
+<a href="https://github.com/dimpleyadav/diamond_dilemma.git" target="_blank"> Github repo</a>
 - Description: Analyzing consumer sentiment and market trends surrounding diamonds.
 
 - Tools: Python
