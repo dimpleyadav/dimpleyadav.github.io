@@ -52,15 +52,16 @@ SQL, Python, Excel, Power BI
 
 ### Work Experience
 #### Freelancer @ Singularium Technologies [December 2023 – Present]
-- Transformed 20,000+ lines from images of invoices into organized digital data by transferring it into a spreadsheet, enhancing data accessibility and analysis.
-- Rectified errors in the data to ensure accuracy close to 100% and reliability, meticulously validating each entry to guarantee a dependable dataset for subsequent analysis and decision-making.
+- Transformed 20,000+ lines of invoice data from images into a structured, digital format, significantly enhancing data accessibility
+and analysis.
+- Ensured high data accuracy by carefully validating entries, providing a reliable dataset for further analysis and decision-making.
 
-#### Subject Matter Expert / Quality Check Expert @ EdTech Company [December 2021 – July 2023]
-- Clarified programming concepts for students through clear, and detailed explanations.
-- Evaluated and validated tutors’ answers to ensure quality and accuracy.
-- Acquired Python programming skills through dedicated self-directed study and practice.
+#### Subject Matter Expert / Quality Check Expert @ Edtech [October 2021 – January 2024]
+- Clarified programming concepts for students through clear, detailed explanations, improving learning outcomes.
+- Validated and ensured accuracy in tutors’ responses, maintaining high-quality educational standards.
+- Acquired Python programming skills through dedicated self-study and practice.
   
 #### Data Analyst Intern @ Bridged.co [September 2020 – February 2021]
-- Researched extensively on the internet to gather relevant information aligned with project goals, ensuring comprehensive data collection.
-- Organized and compiled clean and accurate datasets in spreadsheets for further analysis.
-- Recognized as one of the top 10 performers in the team for exceptional contributions.
+- Conducted thorough research and collected relevant data for project goals, ensuring the accuracy of datasets.
+- Recognized as one of the top 10 performers for consistent contributions to team objectives.
+- Utilized Excel to organize and analyze data, supporting key business decisions with actionable insights.
