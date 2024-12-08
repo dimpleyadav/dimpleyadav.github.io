@@ -1,5 +1,5 @@
 ### Data Aspirant
-I’m an eager and diligent aspiring Data Analyst with a strong foundation in SQL, Python, Excel, and Power BI, gained through self-study. I’ve worked on projects focused on data cleaning, analysis, and basic visualization techniques, which provided me with practical experience. I’m looking forward to starting a data analyst role and contributing to data-driven projects. I’m excited to grow my skills and make an impact in the field.
+I’m an eager and diligent aspiring Data Analyst with a strong foundation in SQL, Python, Excel, and Power BI, gained through self-study. I’ve worked on projects focused on data cleaning, analysis, and visualization techniques, which provided me with practical experience. I’m looking forward to starting a data analyst role and contributing to data-driven projects. I’m excited to grow my skills and make an impact in the field.
 
 ### Skills
 SQL, Python, Excel, Power BI
@@ -17,16 +17,16 @@ SQL, Python, Excel, Power BI
 
 - Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
-#### Indian Airlines Customer Review Analysis
-<img src="https://github.com/user-attachments/assets/5934e1e4-e806-4417-9794-f30491ce3d2c" width="240">
+#### Bank Churn Rate Analysis
+<img src="https://github.com/user-attachments/assets/c7577420-439f-4022-a6bc-f29794978238" width="240">
 
-- Description: Analyzed customer reviews for Indian domestic airlines to identify trends and insights on customer sentiment and service quality.
+- Description: Analyzed 10,000 customer records, identifying key churn patterns and finding minimal impact from attributes like tenure, balance, and salary.
 
-- Tools: Excel, Python
+- Tools: Excel
 
-- Link: <a href="https://github.com/dimpleyadav/excel.git" target="_blank">Project Link</a>
+- Link: <a href="https://github.com/dimpleyadav/bank_churn_excel.git" target="_blank">Project Link</a>
 
-- Project Type: Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
+- Project Type: Data Transformation, Data Analysis, Data Visualization
 
 #### EV Market Analysis
 <img src="https://github.com/user-attachments/assets/e403b5e4-91bd-4d13-a679-7bc7b987bd07" width="240">
