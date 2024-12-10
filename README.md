@@ -1,8 +1,8 @@
 ### Data Aspirant
-I’m an eager and diligent aspiring Data Analyst with a strong foundation in SQL, Python, Excel, and Power BI, gained through self-study. I’ve worked on projects focused on data cleaning, analysis, and visualization techniques, which provided me with practical experience. I’m looking forward to starting a data analyst role and contributing to data-driven projects. I’m excited to grow my skills and make an impact in the field.
+I’m an eager and diligent aspiring Data Analyst with a strong foundation in SQL, Python, Excel, Power BI, and Statistics, gained through self-study. I’ve worked on projects focused on data cleaning, analysis, and visualization techniques, which provided me with practical experience. I’m looking forward to starting a data analyst role and contributing to data-driven projects. I’m excited to grow my skills and make an impact in the field.
 
 ### Skills
-SQL, Python, Excel, Power BI
+SQL, Python, Excel, Power BI, Statistics
 
 ### Projects
 
