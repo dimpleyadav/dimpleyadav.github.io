@@ -1,21 +1,7 @@
-### Data Aspirant
-I’m an eager and diligent aspiring Data Analyst with a strong foundation in SQL, Python, Excel, Power BI, and Statistics, gained through self-study. I’ve worked on projects focused on data cleaning, analysis, and visualization techniques, which provided me with practical experience. I’m looking forward to starting a data analyst role and contributing to data-driven projects. I’m excited to grow my skills and make an impact in the field.
-
 ### Skills
 SQL, Python, Excel, Power BI, Statistics
 
 ### Projects
-
-#### The Diamond Dilemma
-<img src="https://github.com/user-attachments/assets/c0ef73f9-a84e-4aec-89f1-7e1656e237b8" width="240">
-
-- Description: Analyzing consumer sentiment and market trends surrounding diamonds.
-
-- Tools: Python
-
-- Link: <a href="https://github.com/dimpleyadav/diamond_dilemma.git" target="_blank">Project Link</a>
-
-- Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
 #### Bank Churn Rate Analysis
 <img src="https://github.com/user-attachments/assets/c7577420-439f-4022-a6bc-f29794978238" width="240">
@@ -27,6 +13,17 @@ SQL, Python, Excel, Power BI, Statistics
 - Link: <a href="https://github.com/dimpleyadav/bank_churn_excel.git" target="_blank">Project Link</a>
 
 - Project Type: Data Transformation, Data Analysis, Data Visualization
+
+#### The Diamond Dilemma
+<img src="https://github.com/user-attachments/assets/c0ef73f9-a84e-4aec-89f1-7e1656e237b8" width="240">
+
+- Description: Analyzing consumer sentiment and market trends surrounding diamonds.
+
+- Tools: Python
+
+- Link: <a href="https://github.com/dimpleyadav/diamond_dilemma.git" target="_blank">Project Link</a>
+
+- Project Type: Data Collection, Data Transformation, Data Analysis, Sentiment Analysis, Data Visualization
 
 #### EV Market Analysis
 <img src="https://github.com/user-attachments/assets/e403b5e4-91bd-4d13-a679-7bc7b987bd07" width="240">
